@@ -13,4 +13,13 @@ Install msignal (this is Massive library [msignal](https://github.com/massiveint
         haxelib install msignal
         
 
+Build app
+---------
+
+        haxe build.hxml
+        
+Run demo
+--------
+
+        gulp
         
