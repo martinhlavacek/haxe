@@ -4,8 +4,6 @@ var gulp = require('gulp');
 var connect = require('gulp-connect'); //runs a local dev server
 var open = require('gulp-open'); // open url in web browser
 
-var source = require('vinyl-source-stream'); // Use conventional text streams with gulp
-
 var config = {
     port:8888,
     devBaseUrl:"http://localhost",

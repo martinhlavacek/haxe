@@ -4,5 +4,7 @@ This sample includes haxe, nodejs and gulp
 
 Install
 -------
-NodeJS install
+Install all nodejs package:
+
         npm install
+        
