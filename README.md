@@ -4,7 +4,13 @@ This sample includes haxe, nodejs and gulp
 
 Install
 -------
-Install all nodejs packages:
+Install all nodejs packages
 
         npm install
+        
+Install msignal (this is Massive library [msignal](https://github.com/massiveinteractive/msignal))
+
+        haxelib install msignal
+        
+
         
